@@ -1,4 +1,4 @@
-![logo](https://github.com/Anjaliichaudharii3014/Anjaliichaudharii3014/blob/main/Banner.jpeg)
+
 👋 Hi there! I'm Anjali Chaudhari
 🌟 AI & Data Science Enthusiast
 🚀 Passionate about leveraging data to drive impactful solutions.
